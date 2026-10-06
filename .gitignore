@@ -1,0 +1,11 @@
+# local scratch / screenshots
+_*.png
+_*.html
+_*.css
+_*.js
+error.txt
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
